@@ -30,7 +30,7 @@ All services are containerized with **Docker** and orchestrated using **Docker C
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sujithmurali/fullstack-docker-demo.git
+   git clone https://github.com/sujithpulikkal/fullstack-docker-demo.git
    cd fullstack-docker-demo
 
 2. 	Start the stack:
