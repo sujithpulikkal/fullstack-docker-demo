@@ -32,8 +32,6 @@ All services are containerized with **Docker** and orchestrated using **Docker C
    ```bash
    git clone https://github.com/sujithmurali/fullstack-docker-demo.git
    cd fullstack-docker-demo
-Here’s a polished README.md you can drop straight into your repo. It’s structured, professional, and makes your project look impressive when others view it on GitHub or Docker Hub.
-
 
 2. 	Start the stack:
     docker-compose up
